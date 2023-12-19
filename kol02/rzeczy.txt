@@ -1,0 +1,7 @@
+﻿cd .\nazwa\
+dotnet ef migrations add nazwa_migracji
+dotnet ef database update
+entityframeworkcore
+entityframeworkcore.tools
+entityframeworkcore.design
+entityframeworkcore.sqlserver
